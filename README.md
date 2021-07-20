@@ -1,2 +1,0 @@
-# GitDemo
-Git branches demo
